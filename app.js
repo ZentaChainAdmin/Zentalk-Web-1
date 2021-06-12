@@ -4,7 +4,7 @@ const http = require('http').Server(app);
 const io = require("socket.io")(http, {
   allowEIO3: true // false by default
 });
-const port = process.env.PORT || 3030;
+const port = process.env.PORT || 3000;
 
 http.listen(port, () => {
   console.log(`Chat server listening on port ${port}.`);
