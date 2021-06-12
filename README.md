@@ -1,4 +1,4 @@
-# Zentalk Web - React
+# Zentalk Web
 
 Zentalk Web is a highly secure Hybrid-Encrypted Web Chat Application.
 
