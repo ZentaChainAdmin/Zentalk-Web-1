@@ -1,13 +1,13 @@
 {
   "name": "zentalk-web",
-  "version": "1.0.0",
-  "node": "8.1.4",
+  "version": "1.1.0",
+  "node": "10.1.4",
   "license": "MIT",
-  "author": "Zentachain",
-  "description": "Encrypted chat application.",
+  "author": "Zentachain.io",
+  "description": "Encrypted peer to peer chat application.",
   "main": "app.js",
   "engines": {
-    "node": ">=7.6"
+    "node": ">=8.6"
   },
   "scripts": {
     "start": "react-scripts start",
