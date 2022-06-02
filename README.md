@@ -1,6 +1,11 @@
 # Zentalk Web
 
-Zentalk Web is a highly secure Hybrid-Encrypted Web Chat Application.
+### !!! Information: 
+Zentachain has archived this repository. Since Zentanodes have been successfully tested and are no longer supported, we have moved them to Zentanode Explorer where you can communicate offline. If you don't have Zentanode, you can still use it. 
+Online version has also been updated to version 1.3 with 'typescript' and will be released later feel free to fork it.
+
+
+Zentalk Web is a highly secure Hybrid-Encrypted dApplication.
 
 ## Usage & Installation
 In the project directory, you can run:
